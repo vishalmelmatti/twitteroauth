@@ -1,1 +1,17 @@
 config.php
+/nbproject/private/
+
+
+#Temparary files
+*~
+
+composer.phar
+composer.lock
+
+.metadata
+nbproject/
+
+.buildpath
+.project
+.settings/
+.metadata
